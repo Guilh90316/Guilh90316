@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Guilh90316
+- 👀 I’m interested in technology, programming, robotics and biology.
+- 👨‍💻 I’m currently learning PHP, Phyton and JS.
+- 🦾 I’m looking to collaborate on any sorts of projects out there (IoT, Robotics, Bioinformatics, etc).
+- 📫 You can reach me at guilherme90316@gmail.com.
